@@ -1,4 +1,5 @@
 # Calculator
 A basic calculator design.
-![image](https://github.com/user-attachments/assets/0e426600-dc17-432c-982c-d23ff006b6e7)
+![image](https://github.com/user-attachments/assets/4c32b7ac-bb3e-4ed0-9a3f-08e2203d6240)
+
 
